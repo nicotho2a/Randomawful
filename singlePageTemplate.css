@@ -12,7 +12,7 @@
   display: flex;
   perspective: 1000px;
   transform-style: preserve-3d;
-min-height: 100vh;
+min-height: 80vh;
   margin: 0;
   padding: 0;
   overflow: hidden;
